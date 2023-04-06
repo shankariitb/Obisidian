@@ -1,0 +1,1 @@
+index=apigateway-prdidx  api="Intuit.pfm.accounts.transactiontrendservice"
